@@ -25,7 +25,7 @@
   ],
   "dependencies": {
     "async": "^2.5.0",
-    "loader-utils": "~0.2.2",
+    "loader-utils": "webpack/loader-utils#67499ff",
     "source-map": "~0.6.1"
   }
 }
